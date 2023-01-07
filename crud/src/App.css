@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+    background-size: cover;
+    background-position-x: 100%;
+}
